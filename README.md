@@ -1,14 +1,14 @@
 # Medical Insurance Charges Analysis
 
-# **Parameters**
+## **Parameters**
 
 The parameters used in the dataset are:
 
-## **Age**
+### **Age**
 - Age of the insured.  
 - **Type:** Integer  
 
-## **Gender**
+### **Gender**
 - Gender of the insured.  
 - **Type:** Categorical (Mapped to numerical values)  
 
@@ -17,15 +17,15 @@ The parameters used in the dataset are:
 | Female  | 1             |
 | Male    | 2             |
 
-## **BMI**
+### **BMI**
 - Body Mass Index of the insured.  
 - **Type:** Float  
 
-## **No_of_Children**
+### **No_of_Children**
 - Number of children the insured person has.  
 - **Type:** Integer  
 
-## **Smoker**
+### **Smoker**
 - Whether the insured person is a smoker or not.  
 - **Type:** Categorical (Mapped to numerical values)  
 
@@ -34,7 +34,7 @@ The parameters used in the dataset are:
 | Smoker      | 1             |
 | Non-smoker  | 2             |
 
-## **Region**
+### **Region**
 - Region of the USA where the insured belongs.  
 - **Type:** Categorical (Mapped to numerical values)  
 
@@ -45,11 +45,11 @@ The parameters used in the dataset are:
 | Southwest | 3             |
 | Southeast | 4             |
 
-## **Charges**
+### **Charges**
 - Charges for the insurance in USD.  
 - **Type:** Float  
 
-# **Libraries Used**
+## **Libraries Used**
 
 - **skillsnetwork** – Used to download the data.  
 - **pandas** – Used for managing the data.  
