@@ -3,6 +3,15 @@
 ## Project Overview
 This project explores **insurance costs** based on various factors such as age, sex, BMI, and number of children. The goal is to build a predictive model for estimating insurance premiums, leveraging data analysis and machine learning techniques.
 
+## **Libraries Used**
+
+- **skillsnetwork** – Used to download the data.  
+- **pandas** – Used for managing the data.  
+- **numpy** – Used for mathematical operations.  
+- **sklearn** – Used for machine learning and machine-learning pipeline-related functions.  
+- **seaborn** – Used for visualizing the data.  
+- **matplotlib** – Used for additional plotting tools.  
+
 ## Skills Highlighted
 
 - **Data Collection and Cleaning**: Using **Pandas** to load and clean the dataset, including handling missing values and converting categorical data into numerical formats using **Label Encoding** and **One-Hot Encoding**.
@@ -49,7 +58,3 @@ This project explores **insurance costs** based on various factors such as age, 
 - Comparing model performance using **cross-validation**.
 - Evaluating models with metrics such as **RMSE**, **MAE**, and **R-squared**.
 - Selecting the best-performing model for predicting insurance costs.
-
-### 7. Reporting Results
-- Presenting key findings through data visualizations and summary statistics.
-- Writing a detailed report outlining the steps, analysis, and model outcomes.
