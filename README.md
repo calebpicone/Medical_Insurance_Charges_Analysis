@@ -48,3 +48,12 @@ The parameters used in the dataset are:
 ## **Charges**
 - Charges for the insurance in USD.  
 - **Type:** Float  
+
+# **Libraries Used**
+
+- **skillsnetwork** – Used to download the data.  
+- **pandas** – Used for managing the data.  
+- **numpy** – Used for mathematical operations.  
+- **sklearn** – Used for machine learning and machine-learning pipeline-related functions.  
+- **seaborn** – Used for visualizing the data.  
+- **matplotlib** – Used for additional plotting tools. 
